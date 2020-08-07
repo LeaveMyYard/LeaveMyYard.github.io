@@ -1,4 +1,0 @@
-<script>
-window.location.href = "ethereum:0x59af1da69F8186b8f9c443c467383a8B23db46Cd";
-history.back();
-</script>
